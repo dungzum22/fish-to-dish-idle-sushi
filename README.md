@@ -9,8 +9,7 @@ This repository contains the free version of the game that's available on Steam 
 ## Installation
 
 1. Download the game files from this repository
-2. Extract the ZIP file to your preferred location
-3. No additional installation required - the game is ready to play!
+2. No additional installation required - the game is ready to play!
 
 ## How to Run the Game
 
