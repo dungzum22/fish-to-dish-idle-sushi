@@ -1,0 +1,16 @@
+[
+  {
+    "name": "public",
+    "description": "",
+    "protected": false,
+    "build_id": 18936955,
+    "time_updated": 1750405914
+  },
+  {
+    "name": "alpha",
+    "description": "测试分支",
+    "protected": false,
+    "build_id": 18936955,
+    "time_updated": 1750405699
+  }
+]
